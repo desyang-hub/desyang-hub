@@ -1,16 +1,16 @@
-# Hi there 👋 I'm Desyang 👨‍💻
+# Hi there 👋 I'm desyang 👨‍💻
 
 <p align='center'>
-<a href="mailto:your-email@example.com">
+<a href="mailto:desyang@qq.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/desyang">
+<a href="https://github.com/desyang-hub">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=desyang&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=desyang-hub&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -30,7 +30,7 @@
 
 ## 🚀 热门项目
 
-### [YOLOv8 ONNX C++](https://github.com/desyang/yolo-onnx-cpp)
+### [YOLOv8 ONNX C++](https://github.com/desyang-hub/yolo-onnx-cpp)
 基于 ONNX Runtime 和 OpenCV 的 YOLOv8 目标检测 C++ 实现，支持实时视频流处理。
 
 - ⭐ 多线程流水线设计
@@ -40,11 +40,11 @@
 ## 📊 GitHub 统计
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desyang&layout=compact&theme=dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desyang-hub&layout=compact&theme=dark" width="400">
 </p>
 
 ## 📈 贡献活动
 
 <p align='center'>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=desyang&theme=dark" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=desyang-hub&theme=dark" width="400">
 </p>
